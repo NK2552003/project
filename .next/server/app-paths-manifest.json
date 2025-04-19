@@ -1,6 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/about/page": "app/about/page.js",
+  "/blog/[id]/page": "app/blog/[id]/page.js",
   "/blogs/page": "app/blogs/page.js",
   "/categories/page": "app/categories/page.js",
   "/category/[slug]/page": "app/category/[slug]/page.js",
@@ -8,5 +9,6 @@
   "/landing_homepage/page": "app/landing_homepage/page.js",
   "/notifications/page": "app/notifications/page.js",
   "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
   "/settings/page": "app/settings/page.js"
 }

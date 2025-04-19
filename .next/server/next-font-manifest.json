@@ -2,6 +2,7 @@
   "app": {
     "[project]/app/_not-found/page": [],
     "[project]/app/about/page": [],
+    "[project]/app/blog/[id]/page": [],
     "[project]/app/blogs/page": [],
     "[project]/app/categories/page": [],
     "[project]/app/category/[slug]/page": [],
@@ -9,6 +10,7 @@
     "[project]/app/landing_homepage/page": [],
     "[project]/app/notifications/page": [],
     "[project]/app/page": [],
+    "[project]/app/profile/page": [],
     "[project]/app/settings/page": []
   },
   "appUsingSizeAdjust": false,
